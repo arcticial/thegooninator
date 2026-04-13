@@ -169,9 +169,9 @@ public final class Items{
     public static final SlimefunItemStack ELECTRIC_GOLD_REFINERY = new SlimefunItemStack(
             "ELECTRIC_GOLD_REFINERY",
             Material.GOLD_BLOCK	,
-            "&bElectric Gold Refinery",
+            "&bElectric Gold Licker",
             "",
-            "&7Refines gold dust to gold ingots.",
+            "&7Licks gold dust until it resembles gold ingots.",
             "",
             LoreBuilder.machine(MachineTier.END_GAME, MachineType.MACHINE),
             LoreBuilder.powerPerSecond(ElectricGoldRefinery.ENERGY_CONSUMPTION)
@@ -182,7 +182,7 @@ public final class Items{
             Material.BEACON,
             "&bChunk Loader",
             "",
-            "&7Keeps chunk loaded."
+            "&7Keeps chunk loaded using the power of a small gnome trapped inside afking."
     );
 
     public static final SlimefunItemStack STABILIZED_BLISTERING_BLOCK = new SlimefunItemStack(
@@ -277,7 +277,7 @@ public final class Items{
     public static final SlimefunItemStack DEMONIC_INGOT = new SlimefunItemStack(
             "DEMONIC_INGOT",
             Material.GOLD_INGOT,
-            "&cDemonic Ingot"
+            "&cDemonic Gay Ingot"
     );
 
     public static final SlimefunItemStack DEMONIC_PLATE = new SlimefunItemStack(
@@ -295,19 +295,19 @@ public final class Items{
     public static final SlimefunItemStack DAMIENIUM = new SlimefunItemStack(
             "DAMIENIUM",
             Material.GOLD_INGOT,
-            "&aDamienium"
+            "&aDamnium"
     );
 
     public static final SlimefunItemStack SWEET_INGOT = new SlimefunItemStack(
             "SWEET_INGOT",
             Material.GOLD_INGOT,
-            "&eSweet Ingot"
+            "&eSweet Mother Of God Ingot"
     );
 
     public static final SlimefunItemStack SWEETENED_SWEET_INGOT = new SlimefunItemStack(
             "SWEETENED_SWEET_INGOT",
             Material.GOLD_INGOT,
-            "&eSweetened Sweet Ingot"
+            "&eSweetened Sweet Mother Of God Ingot"
     );
 
     public static final SlimefunItemStack SACRIFICIAL_ALTAR_BLACKSTONE_BRICKS = new SlimefunItemStack(
@@ -329,9 +329,9 @@ public final class Items{
     public static final SlimefunItemStack SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS = new SlimefunItemStack(
             "SACRIFICIAL_ALTAR_BLACKSTONE_BRICK_STAIRS",
             Material.POLISHED_BLACKSTONE_BRICK_STAIRS,
-            "&fSacrificial Blackstone Brick Stairs",
+            "&fSubaru Walking Up The Stairs",
             "",
-            "&7Used as a part of Sacrificial Altar."
+            "&7Used as a part of Sacrificial Altar. Aura Monster."
     );
 
     public static final SlimefunItemStack SACRIFICIAL_ALTAR_SOUL_TORCH = new SlimefunItemStack(
@@ -691,7 +691,7 @@ public final class Items{
     public static final SlimefunItemStack SPONGE_WAND = new SlimefunItemStack(
             "SPONGE_WAND",
             Material.BLAZE_ROD,
-            "&eSponge Wand",
+            "&eSpongebob Wand",
             "",
             "&7Select corner points with Position Selector.",
             "&7Right click to remove Water and Lava.",
@@ -710,6 +710,6 @@ public final class Items{
     public static final SlimefunItemStack COMPRESSED_SPONGE = new SlimefunItemStack(
             "COMPRESSED_SPONGE",
             Material.WET_SPONGE,
-            "&fCompressed Sponge"
+            "&fCompressed Spongebobs"
     );
 }
