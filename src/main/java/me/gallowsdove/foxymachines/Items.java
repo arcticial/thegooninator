@@ -283,7 +283,7 @@ public final class Items{
     public static final SlimefunItemStack DEMONIC_PLATE = new SlimefunItemStack(
             "DEMONIC_PLATE",
             Material.LIGHT_WEIGHTED_PRESSURE_PLATE,
-            "&cDemonic Plate"
+            "&cDemonic Gay Plate"
     );
 
     public static final SlimefunItemStack AQUATIC_NETHERITE_INGOT = new SlimefunItemStack(
